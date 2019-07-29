@@ -10,7 +10,7 @@ epic_tradgey = {
     patriarch:'Lord Capulet',
     matriarch:'Lady Capulet', 
     hero:'Juliet', 
-    hero_friends:['Steven','Mercutio']
+    hero_friends:['Steven','Nurse']
   }
 
 }
