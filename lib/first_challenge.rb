@@ -24,34 +24,34 @@ def first_challenge
   #       :age => "18",
   #       :attitude => "hot-headed"
       }
-     ]
+  #   ]
   },
   :capulet => {
-  #   :patriarch => {
+    :patriarch => {
   #     :name => "Lord Capulet",
   #     :age => "50"
-  #   },
-  #   :matriarch => {
+    },
+    :matriarch => {
   #     :name => "Lady Capulet",
   #     :age => "51"
-  #   },
-  #   :heroine => {
+    },
+    :heroine => {
   #     :name => "Juliet",
   #     :age => "15",
   #     :status => "alive"
-  #   },
-  #   :heroine_friends=> [
+    },
+    :heroine_friends=> [
   #     {
   #       :name => "Steven",
   #       :age => "30",
   #       :attitude => "confused"
-  #     },
-  #     {
+      },
+      {
   #       :name => "Nurse",
   #       :age => "44",
   #       :attitude => "worried"
-  #     }
-  #   ]
+      }
+    ]
   }
 }
 end
