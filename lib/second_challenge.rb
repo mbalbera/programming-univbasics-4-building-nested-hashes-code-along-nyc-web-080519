@@ -25,7 +25,7 @@
 def second_challenge
 epic_tradgey = {
   :montague => {
-    patriarch:'Lord Montague',
+    patriarch:,
     matriarch:'Lady Montague', 
     hero:'Romeo', 
     hero_friends:['Benvolio','Mercutio']
