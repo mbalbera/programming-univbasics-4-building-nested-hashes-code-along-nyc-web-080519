@@ -48,5 +48,5 @@ epic_tragedy = {
         },
       :heroine_friends => []
    }
- epic_tradgey
+
 end
