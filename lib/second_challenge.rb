@@ -1,40 +1,17 @@
 
-  
-# def second_challenge
-# epic_tradgey = {
-#   :montague => {
-#     patriarch:'Lord Montague',
-#     matriarch:'Lady Montague', 
-#     hero:'Romeo', 
-#     hero_friends:['Benvolio','Mercutio']
-#   },
-#   :capulet => {
-#     patriarch:'Lord Capulet',
-#     matriarch:'Lady Capulet', 
-#     heroine:'Juliet', 
-#     heroine_friends:['Steven','Nurse']
-#   }
-
-# }
-# return epic_tradgey
-# end
-
-
-
-  
 def second_challenge
 epic_tragedy = {
    :montague => {
       :patriarch => {},
-      :matriarch => { },
+      :matriarch => {},
       :hero => {},
       :hero_friends => []
    }, 
    :capulet => {
-      :patriarch => { },
-      :matriarch => { },
+      :patriarch => {},
+      :matriarch => {},
       :heroine => {},
       :heroine_friends => []
    }
-
+return epic_tragedy
 end
