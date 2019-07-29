@@ -14,7 +14,7 @@ def first_challenge
   #     :age => "15"
   },
     :hero_friends => [
-  #     {
+      {
   #       :name => "Benvolio",
   #       :age => "17",
   #       :attitude => "worried"
@@ -23,7 +23,7 @@ def first_challenge
   #       :name => "Mercutio",
   #       :age => "18",
   #       :attitude => "hot-headed"
-  #     }
+      }
   #   ]
   },
   :capulet => {
