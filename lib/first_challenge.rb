@@ -1,10 +1,10 @@
 def first_challenge
 epic_tradgey = {
   :montague => {
-  #   :patriarch => {},
-  #   :matriarch => {}, 
-  #   :hero => {}, 
-  #   :hero_friends => {}
+    patriarch:'Lord Montague',
+    matriarch:'Lady Montague', 
+    hero:'Romeo', 
+    hero_friends:['Benvolio','Mercutio']
   },
   :capulet => {
     # :patriarch => {},
