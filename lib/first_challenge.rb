@@ -7,10 +7,10 @@ epic_tradgey = {
     hero_friends:['Benvolio','Mercutio']
   },
   :capulet => {
-    # :patriarch => {},
-    # :matriarch => {}, 
-    # :hero => {}, 
-    # :hero_friends => {}
+    patriarch:'Lord Montague',
+    matriarch:'Lady Montague', 
+    hero:'Romeo', 
+    hero_friends:['Benvolio','Mercutio']
   }
 
 }
