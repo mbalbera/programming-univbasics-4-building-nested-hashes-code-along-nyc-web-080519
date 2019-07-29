@@ -11,7 +11,7 @@ epic_tradgey = {
   :capulet => {
     patriarch:'Lord Capulet',
     matriarch:'Lady Capulet', 
-    hero:'Juliet', 
+    heroine:'Juliet', 
     heroine_friends:['Steven','Nurse']
   }
 
