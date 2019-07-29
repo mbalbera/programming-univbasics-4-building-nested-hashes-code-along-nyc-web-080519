@@ -16,5 +16,5 @@ epic_tradgey = {
   }
 
 }
-end
+return epic_tradgey
 end
